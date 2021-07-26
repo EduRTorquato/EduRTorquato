@@ -13,5 +13,4 @@
 [![Edu's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoRTorquato)](https://github.com/EduardoRTorquato/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduRTorquato)](https://github.com/EduRTorquato/github-readme-stats)
 
-![Edu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
