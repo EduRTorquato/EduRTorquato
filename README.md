@@ -1,6 +1,6 @@
   <h1>Olá, Reptiliano! 🦎</h1>
   
-  -Aluno na Generation Brasil 📙
+  <p>-Aluno na Generation Brasil 📙</p>
   -Estudando Sistemas de Informação na Universidade Anhembi Morumbi 📗
   -Fotografo nas horas vagas 📸
   -Trabalhando em alguns projetos pessoais...
