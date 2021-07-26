@@ -1,16 +1,17 @@
-### Hi there 👋
+  Olá, Reptiliano! 🦎
+  
+  -Aluno na Generation Brasil 📙
+  -Estudando Sistemas de Informação na Universidade Anhembi Morumbi 📗
+  -Fotografo nas horas vagas 📸
+  -Trabalhando em alguns projetos pessoais...
+  -Apaixonado por Java, não me julguem XD
 
-<!--
-**EduRTorquato/EduRTorquato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Aprendendo Spring Framework com MySql, Angular, Bootstrap e JS!
+- 💬 Ask me about everything, you may not have your answer, but i'll try to find it :)
+- ⚡ Fun fact: Eu crio um algorítimo para literalmente tudo na minha cabeça :s
 
-Here are some ideas to get you started:
+[![Edu's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoRTorquato)](https://github.com/EduardoRTorquato/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduRTorquato)](https://github.com/EduRTorquato/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Edu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
