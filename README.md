@@ -1,4 +1,4 @@
-  <h1>Olá, Reptiliano! 🦎</h1>
+  <h1>Olá, mundo!</h1>
   
   <p>-Aluno na Generation Brasil 📙</p>
   <p>-Estudando Sistemas de Informação na Universidade Anhembi Morumbi 📗</p>
