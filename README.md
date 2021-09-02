@@ -1,9 +1,9 @@
   <h1>Olá, mundo!</h1>
   
-  <p>-Aluno na Generation Brasil 📙</p>
-  <p>-Estudando Sistemas de Informação na Universidade Anhembi Morumbi 📗</p>
+  <p>-Formado pela Generation Brasil 📙</p>
+  <p>-Estudando Sistemas de Informação 📗</p>
   <p>-Fotografo nas horas vagas 📸</p>
-  <p>-Trabalhando em alguns projetos pessoais...</p>
+  <p>-Trabalhando em alguns projetos pessoais</p>
   <p>-Apaixonado por Java, não me julguem XD</p>
 
 <h2>- 🌱 Aprendendo Spring Framework com MySql, Angular, Bootstrap e JS!</h2>
