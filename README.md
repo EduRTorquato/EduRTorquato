@@ -1,9 +1,5 @@
-  <h1>Olá, mundo!</h1>
+  <h1>H3llo W0rld</h1>
   
-  <p>-Formado pela Generation Brasil 📙</p>
-  <p>-Estudando Análise e desenvolvimento de sistemas 📗</p>
-  <p>-Analista de Programador Jr. na Stefanini Brasil</p>
-
 <h2>- 💬 Ask me about everything, you may not have your answer, but i'll try to find it :)</h2>
 
 [![Edu's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduRTorquato)](https://github.com/EduRTorquato/github-readme-stats) 
